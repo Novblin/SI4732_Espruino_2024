@@ -52,7 +52,7 @@ After loading the binaries and resetting the ESP32, it should now be possible to
 ```
 boot0.js -> .boot0
 bootcde.js -> .bootcde
-encode.js 
+encoder.js 
 // all the javascript file in the ats100 folder
 ats100/smallradio.png -> smallradio   // choose 4bit MAc pallette to convert in WebIDE.
 ```
